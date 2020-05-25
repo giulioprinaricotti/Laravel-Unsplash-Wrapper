@@ -1,12 +1,12 @@
 {
-    "name": "shweshi/laravel-unsplash-wrapper",
+    "name": "giulioprinaricotti/laravel-unsplash-wrapper",
     "description": "A Laravel wrapper for Unsplash",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Shashi Prakash Gautam",
-            "email": "contactmespg@gmail.com"
+            "name": "Giulio Prina Ricotti",
+            "email": "g.prinaricotti@gmail.com"
         }
     ],
     "require": {
