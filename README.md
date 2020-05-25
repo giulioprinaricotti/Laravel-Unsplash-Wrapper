@@ -1,11 +1,7 @@
 # LaravelUnsplashWrapper
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/shweshi/Laravel-Unsplash-Wrapper.svg?style=flat-square)](https://packagist.org/packages/shweshi/Laravel-Unsplash-Wrapper)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/shweshi/Laravel-Unsplash-Wrapper/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/shweshi/Laravel-Unsplash-Wrapper/?branch=master)
-[![StyleCI](https://styleci.io/repos/121030344/shield?branch=master)](https://styleci.io/repos/121030344)
-[![Build Status](https://scrutinizer-ci.com/g/shweshi/Laravel-Unsplash-Wrapper/badges/build.png?b=master)](https://scrutinizer-ci.com/g/shweshi/Laravel-Unsplash-Wrapper/build-status/master)
-[![Total Downloads](https://img.shields.io/packagist/dt/shweshi/Laravel-Unsplash-Wrapper.svg?style=flat-square)](https://packagist.org/packages/shweshi/Laravel-Unsplash-Wrapper)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fshweshi%2FLaravel-Unsplash-Wrapper.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fshweshi%2FLaravel-Unsplash-Wrapper?ref=badge_shield)
+**Note**: fork from [shweshi/Laravel-Unsplash-Wrapper](https://github.com/shweshi/Laravel-Unsplash-Wrapper)
+
 
 **A Laravel wrapper for Unsplash.**
 
